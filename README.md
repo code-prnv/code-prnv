@@ -1,23 +1,15 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img width="100%" src="./dark.svg">
-</picture>
-
 <br>
 
-### Software Engineer • Cybersecurity • Backend Systems
+### CSE • SDE • Cybersecurity
 
-Building scalable software, security tooling and developer infrastructure.
+making things for computer, security & software dev
 
 <p>
 
-<a href="https://yourportfolio.com">Portfolio</a> •
-<a href="mailto:you@example.com">Email</a> •
-<a href="https://linkedin.com/in/...">LinkedIn</a> •
-<a href="https://x.com/...">X</a>
+<a href="[https://yourportfolio.com](https://codeprnv.vercel.app/)">Portfolio</a> •
+<a href="mailto:codeprnv@gmail.com">Email</a> •
+<a href="https://x.com/codeprnv">X</a>
 
 </p>
 
@@ -29,13 +21,13 @@ Building scalable software, security tooling and developer infrastructure.
 
 I'm currently focused on
 
-- Backend Engineering
-- Distributed Systems
+- Full stack development
+- open source contribution
 - Cybersecurity
 - Linux
-- Open Source
+- Gsoc
 
-I enjoy building software that solves difficult engineering problems while remaining simple to use.
+I enjoy building software that solves difficult engineering & real world problems while remaining simple to use.
 
 ---
 
@@ -44,7 +36,7 @@ I enjoy building software that solves difficult engineering problems while remai
 ```text
 ✓ Learning Data Structures & Algorithms
 
-✓ Backend Development
+✓ Full-stack Development
 
 ✓ Cybersecurity
 
@@ -59,56 +51,29 @@ I enjoy building software that solves difficult engineering problems while remai
 
 ### Languages
 
-![C++](...)
-![Python](...)
-![Java]
-![JavaScript]
-![TypeScript]
-
-### Backend
-
-Node.js • Express • Spring Boot
-
-### Databases
-
-PostgreSQL • MongoDB • Redis
-
-### DevOps
-
-Docker • Git • Linux • GitHub Actions
+• Html 
+• CSS 
+• Javascript 
+• Python 
+• C++
+• Java
 
 ### Cloud
 
 AWS
 
----
-
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Project One | AI backend platform |
-| Project Two | Cybersecurity toolkit |
-| Project Three | Developer CLI |
-| Project Four | Linux utility |
-
----
 
 # GitHub Stats
 
 <div align="center">
 
-<img height=170 src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-prnv&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-prnv&layout=compact&hide_border=true&theme=transparent" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-prnv&theme=github-compact" />
 
 </div>
 
@@ -116,6 +81,6 @@ AWS
 
 <div align="center">
 
-> First solve the problem. Then write the code.
+> Thank you.
 
 </div>
