@@ -7,7 +7,7 @@ making things for computer, security & software dev
 
 <p>
 
-<a href="[https://yourportfolio.com](https://codeprnv.vercel.app/)">Portfolio</a> •
+<a href="https://codeprnv.vercel.app">Portfolio</a> •
 <a href="mailto:codeprnv@gmail.com">Email</a> •
 <a href="https://x.com/codeprnv">X</a>
 
@@ -67,9 +67,9 @@ AWS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-prnv&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-prnv&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-prnv&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-prnv&layout=compact&hide_border=true&theme=transparent" />
 
 <br><br>
 
